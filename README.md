@@ -31,6 +31,8 @@ Lastly, I created a timeChecker function that enables my time blocks to change c
 
 ###Final Product Demo:
 ![day planner demo](./Assets/workday-scheduler-demo.gif)
+
+
 ####Final Product Image:
 ![Final Product](Assets/workday-scheduler-demo.png)
 
